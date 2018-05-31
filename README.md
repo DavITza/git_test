@@ -1,2 +1,2 @@
 # git_test
-Exercici Git
+https://github.com/DavITza/git_test
