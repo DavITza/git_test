@@ -1,4 +1,7 @@
 
 <!-- Exercici Git en Construcció -->
 <!-- Vaig a fer un altre comentari -->
-<!-- Segueixo projecte a branca principal -->
+<!-- Desperes de crear una branca del treball principal, anomenada branch1,
+segueixo projecte a branca principal -->
+
+
